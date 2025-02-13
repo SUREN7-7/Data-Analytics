@@ -7,3 +7,46 @@ Key Responsibilities:
 * Visualization: Create reports and dashboards using tools like Power BI, Tableau, or Excel to present data insights in an understandable format.
 * Reporting: Prepare detailed reports for stakeholders, explaining data insights, trends, and recommendations.
 * Decision Support: Provide actionable insights to help companies improve operations, marketing strategies, financial planning, or product development.
+
+DATA WORKER:
+* Consumes and works with data regularly.
+* Performs data manipulation.
+* Presents data as a form of their everyday work.
+
+DATA ANALYST:
+* More access to data.
+* Models data.
+* Automates the flow of data.
+* Analysis and presents data on a deeper level.
+
+DATA ENGINERRS:
+* Build and design data sets.
+
+DATA ARCHITECT:
+* Design data systems.
+
+DATA SCIENTIST:
+* Possesses skills of an analyst,engineer,architect.
+* Higher use of coding,sttistics, and math.
+
+DATA LITERATE:
+* Ability to read,speak,listen,understand data.
+
+DATA FLUENCY:
+* The ability to create something beyond just being able to understand,read and use it.
+
+DATA GOVERNANCE:
+* A framework that incorporate strategies to create solid quality data, enable accountability and provide transparencey 
+  to data in organization
+
+COMPONENTS OF DATA GOVERNANCE:
+* Access information.
+* Source of truth.
+* Master data management.
+
+QUALITY DATA(Data that can be trusted to produce accurate insights)
+HALLMARKS OF QUALITY DATA:
+* Completeness
+* Consistency
+* Validity
+* Accuracy
