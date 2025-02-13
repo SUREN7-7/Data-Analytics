@@ -1,1 +1,38 @@
+                                                BUSINESS INTELLIGENCE
+* Data driven decisions implies decisions made by the data.
+* Data and business intelligence(BI) give you the information and ability to make intelligent decisions.
+* Store data that is important to the business and all its proceses.
+* Business Inteelligence (Performance in present date).
+* Business Analysis (Analyzing data and creating more of it).
+* Data Analysis (Analyze and capturing data to compare over time).
 
+                                                IDENTIFYING DATA
+* Build an approach
+* Think through standard questions
+* Use critical thinking
+* Practice active listening
+
+QUESTIONING IS IMPORTANT
+
+TYPES OF COMPANY DATA:
+* People management
+* Marketing and sales
+* Purchasing
+* Warehouse
+* Shipment
+* Accounting
+
+-> Data has a value such as Nov 11 2005
+ data datatype
+ fieldname dob
+ combining these we create a record (first name, last name, dob)
+
+TYPES OF SYSTEMS:
+* Spreadsheets
+* Databases
+* Data warehouses(consists of refined tables from production systems)
+
+DATA PROFILING:
+* Tells us how much data we have in a set.
+* Helps us validate our numbers
+* Shows us what we're facing when we're ready to transform our data.
