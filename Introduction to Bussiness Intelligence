@@ -36,3 +36,16 @@ DATA PROFILING:
 * Tells us how much data we have in a set.
 * Helps us validate our numbers
 * Shows us what we're facing when we're ready to transform our data.
+
+BUSINESS RULES:
+* When to expect data
+* What to do with data that meets certain criteria
+* What needs to happen in the traansformation of data
+
+-> SalesOrderID must be converted into a tecxt data type
+-> SalesOrderNumber must be converted into a text data type and must not contain any letters
+-> All date fields should not include time
+-> The main Acct. GL Number field must be included
+-> The main Acct. GL Number holds the 4 digit code for accounting and the last 2 digits to specify category
+-> TerritoruID and comment fields must be removed
+-> The final must be saved as a csv in ordeer for the importing system to be successful
